@@ -19,7 +19,7 @@ The languages, listed from my most experienced to least:
 3. Python
 4. JavaScript
 
-As I am the most knowledgable about C, I shall provide my favorite code:
+As I am the most knowledgable about C, I shall provide my ***favorite code***:
 ```
 printf("Hello, World!");
 ```
