@@ -1,12 +1,12 @@
 # Welcome to Jennifer's User Page
 ## Table of Contents
-![](https://i.imgur.com/IApVufx.png) [Information](https://github.com/jlambgit/LabWeek1/new/main#information)
+![](https://i.imgur.com/IApVufx.png) [Information](#-information)
 
-![](https://i.imgur.com/TgakUPf.png) [Programming Knowledge](https://github.com/jlambgit/LabWeek1/new/main#programming-knowledge)
+![](https://i.imgur.com/TgakUPf.png) [Programming Knowledge](#-programming-knowledge)
 
-![](https://i.imgur.com/fdtVgSI.png) [Goals](https://github.com/jlambgit/LabWeek1/new/main#goals)
+![](https://i.imgur.com/fdtVgSI.png) [Goals](#-goals)
 
-![](https://i.imgur.com/ECh7bc9.png) [Fun Stuff](https://github.com/jlambgit/LabWeek1/new/main#fun-stuff)
+![](https://i.imgur.com/ECh7bc9.png) [Fun Stuff](#-fun-stuff)
 
 ### ![](https://i.imgur.com/IApVufx.png) Information
 Hello, I am Jennifer. I am currently an undergraduate student majoring in Math-CS in UC San Diego. I am mainly interested in cryptography and network systems. I have a general idea about some cryptosystems and how they function.
