@@ -47,3 +47,5 @@ Thank you for reading my page! Have a bee.
 As Barry Bee Benson said:
 > Ya like jazz?
 
+~~[Link Test](screenshots/screenshot.md)~~
+[Link to .gitignore](/../vc-read-me/.gitignore)
