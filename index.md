@@ -44,8 +44,10 @@ I am always down for suggestions, especially if they are in the horror genre.
 
 Additionally, I also enjoy drawing and image editing.
 
-I had previously worked on a Yearbook team in which I took photos and edited them. My favorite project was reconstructing hands on an individual in a group photo as they made strange gestures in the photo we had taken. One may ask:
+I had previously worked on a Yearbook team in which I took photos and edited them. My favorite project was reconstructing hands on an individual in a group photo as they made strange gestures in the photo we had taken. 
+One may ask:
 > Why didn't you retake the photo?
+
 As for the answer to that, we were unable to gather the people in the group photo again due to scheduling issues.
 
 Thank you for reading my page! Have a bee.
