@@ -6,9 +6,10 @@
 
 ![](https://i.imgur.com/fdtVgSI.png) [Goals](https://github.com/jlambgit/LabWeek1/new/main#goals)
 
-:cowboy_hat_face: [Fun Stuff](https://github.com/jlambgit/LabWeek1/new/main#fun-stuff)
+![](https://i.imgur.com/ECh7bc9.png) [Fun Stuff](https://github.com/jlambgit/LabWeek1/new/main#fun-stuff)
+
 ### ![](https://i.imgur.com/IApVufx.png) Information
-Hello, I am Jennifer. I am currently an undergraduate student majoring in Math-CS in UC San Diego. I am interested in cryptography and network systems.
+Hello, I am Jennifer. I am currently an undergraduate student majoring in Math-CS in UC San Diego. I am mainly interested in cryptography and network systems. I have a general idea about some cryptosystems and how they function.
 
 ### ![](https://i.imgur.com/TgakUPf.png) Programming Knowledge 
 I have programmed in various languages, with some being used more than others.
@@ -16,20 +17,23 @@ The languages, listed from my most experienced to least:
 1. C/C++
 2. Java
 3. Python
-4. JavaScript
-
+4. ~~MatLab~~
+   
 As I am the most knowledgable about C, I shall provide my ***favorite code***:
 ```
 printf("Hello, World!");
 ```
+
+On a serious note, I have programmed some cryptosystems in Python with Sage additions. They range from simple cryptosystems like Ceasar Cipher to more modern ciphers such as [NTRU conversion](https://en.wikipedia.org/wiki/NTRU).
+
 ### ![](https://i.imgur.com/fdtVgSI.png) Goals
 - [ ] Graduate UCSD
 - [ ] Learn about Network Systems
 - [x] Learn about Cryptography Systems
 - [ ] Make a video game with a friend
 
-### :cowboy_hat_face: Fun Stuff
-As mentioned previously, I enjoy playing video games in my free time.
+### ![](https://i.imgur.com/ECh7bc9.png) Fun Stuff
+I enjoy playing video games in my free time.
 Here's a list of my **favorite** games:
 - 100% Orange Juice
 - Maplestory
@@ -56,6 +60,7 @@ Thank you for reading my page! Have a bee.
 
 As Barry Bee Benson said:
 > Ya like jazz?
+
 
 ~~[Link Test](screenshots/screenshot.md)~~
 
