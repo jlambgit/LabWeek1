@@ -40,12 +40,16 @@ Here's a list of my **favorite** games:
 I also read manga and watch anime such as:
 - [*Shaman King*](https://en.wikipedia.org/wiki/Shaman_King)
 - [*Mieruko-chan*](https://en.wikipedia.org/wiki/Mieruko-chan)
+
 I am always down for suggestions, especially if they are in the horror genre.
 
 Thank you for reading my page! Have a bee.
+
 ![](bee.jpeg)
+
 As Barry Bee Benson said:
 > Ya like jazz?
 
 ~~[Link Test](screenshots/screenshot.md)~~
-[Link to .gitignore](/../vc-read-me/.gitignore)
+
+[Link to .gitignore](/vc-read-me/.gitignore)
