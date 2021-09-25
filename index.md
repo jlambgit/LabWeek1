@@ -10,6 +10,7 @@
 
 ### ![](https://i.imgur.com/IApVufx.png) Information
 Hello, I am Jennifer. I am currently an undergraduate student majoring in Math-CS in UC San Diego. I am mainly interested in cryptography and network systems. I have a general idea about some cryptosystems and how they function.
+If you want to see my programming knowledge, head over [here](#-programming-knowledge).
 
 ### ![](https://i.imgur.com/TgakUPf.png) Programming Knowledge 
 I have programmed in various languages, with some being used more than others.
