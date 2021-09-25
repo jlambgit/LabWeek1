@@ -52,4 +52,4 @@ As Barry Bee Benson said:
 
 ~~[Link Test](screenshots/screenshot.md)~~
 
-[Link to .gitignore](/../vc-read-me/.gitignore)
+[Link to .gitignore](/../vs-read-me/.gitignore)
