@@ -65,4 +65,4 @@ As Barry Bee Benson said:
 
 ~~[Link Test](screenshots/screenshot.md)~~
 
-[Link to .gitignore](/../vs-read-me/.gitignore)
+[Link to .gitignore](https://github.com/jlambgit/LabWeek1/blob/vs-read-me/.gitignore)
