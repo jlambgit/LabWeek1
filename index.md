@@ -9,7 +9,18 @@
 ![](https://i.imgur.com/ECh7bc9.png) [Fun Stuff](#-fun-stuff)
 
 ### ![](https://i.imgur.com/IApVufx.png) Information
-Hello, I am Jennifer. I am currently an undergraduate student majoring in Math-CS in UC San Diego. I am mainly interested in cryptography and network systems. I have a general idea about some cryptosystems and how they function.
+Hello, I am Jennifer. I am currently an undergraduate student majoring in Math-CS in UC San Diego. I am mainly interested in cryptography and network systems. I have a general idea about some cryptosystems and how they function. 
+
+Relevant courses I have taken in UCSD are:
+- CSE 11
+- CSE 12
+- CSE 15L
+- CSE 30
+- CSE 100
+- CSE 105
+- MATH 184
+- MATH 187A/B
+
 If you want to see my programming knowledge, head over [here](#-programming-knowledge).
 
 ### ![](https://i.imgur.com/TgakUPf.png) Programming Knowledge 
@@ -40,6 +51,8 @@ Here's a list of my **favorite** games:
 - Maplestory
 - Yakuza Series
 - Bloons TD 6
+  
+![](https://i.imgur.com/sFpE2oB.png)
 
 I also read manga and watch anime such as:
 - [*Shaman King*](https://en.wikipedia.org/wiki/Shaman_King)
